@@ -1,1 +1,1 @@
-print("This is an app")
+print("This is an app!")
